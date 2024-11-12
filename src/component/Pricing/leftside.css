@@ -1,0 +1,60 @@
+
+.text
+{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    
+    flex-direction: column;
+}  
+.text h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    margin-top: 0rem;
+    margin-left: 1.5rem;
+}
+.text p 
+{
+    margin-left: 1.5rem;
+}
+.para
+{
+    margin-top: -0.6rem;
+}
+.colr
+{
+    color: #A11AFE;
+}
+.review
+{
+    width: 11rem;
+    height: 2.5rem;
+    color: white;
+    background-color:#EDA4F6;
+    border-radius: 0.3rem;
+    border-color: #A11AFE !important;
+    margin-left: 3rem;
+    font-size: 0.99rem;
+}
+.clients
+{
+ width: 100%;
+ height: 15vh;
+ display: flex;
+ justify-content: space-around;
+
+}
+.orders
+{
+    width: 12rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.orders p
+{
+    margin-top: -1rem;
+}

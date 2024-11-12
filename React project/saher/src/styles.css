@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Container styles */
+.container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Counter display */
+  .counter-box {
+    margin: 20px;
+    font-size: 48px;
+    color: #333;
+  }
+  
+  /* Button styles */
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .button:active {
+    background-color: #3e8e41;
+  }
+  
+  /* Disabled button style */
+  .button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  /* Reset button styles */
+  .button-reset {
+    background-color: #f44336;
+  }
+  
+  .button-reset:hover {
+    background-color: #d32f2f;
+  }

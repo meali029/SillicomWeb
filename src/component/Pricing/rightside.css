@@ -1,0 +1,41 @@
+.container
+{
+    width: 75%;
+    height: 75vh;
+    border-radius: 1.5rem;
+    border: 2px solid #D731EB;
+    color: #333;
+}
+.start
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contact-btn
+{
+    background-color: #D731EB;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    width: 9rem;
+    height: 3rem;
+
+}
+.service-title
+{
+    margin-left: 1rem;
+}
+.service-description
+{
+    margin-left: 1rem;
+}
+.description
+{
+    margin-left: 1rem;
+}
+.starting
+{
+    columns: #D731EB;
+}

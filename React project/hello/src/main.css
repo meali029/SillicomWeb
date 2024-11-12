@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top:  8rem;
+}
+.container
+{
+    background-color: aqua;
+    width: 33rem;
+    height: 32rem;
+
+}
+.result
+{
+    background-color: aquamarine;
+    width: 98.5%;
+    height: 3.58rem;
+}
+.result1
+{
+    background-color: aquamarine;
+    width: 98.5%;
+    height: 3rem;
+}
